@@ -3,7 +3,7 @@
  *
  * By: Igor
  * Version: 1.0
- * Since:   2005-07-21
+ * Since:   2022-07-21
  */
 
 const MAGIC_NUM = 15
